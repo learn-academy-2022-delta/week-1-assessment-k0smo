@@ -22,9 +22,11 @@ const fruit4 = "kiwi"
 // Pseudo code:
 
 const temp1 = 42
+console.log "42 is below boiling point"
 const temp2 = 350
+console.log "350 is above boiling point"
 const temp3 = 212
-
+console.log "212 is at boiling point"
 
 // --------------------2) Create the code that will combine the two arrays and return the length using the variables provided below. Expected output: 10
 
